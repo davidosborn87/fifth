@@ -30,8 +30,3 @@ public class Clock {
         System.out.println(min);
     }
 }
-//Write a program which takes an integer as its input, representing the time using the 24-hour clock.
-//For example, 930 is 9.30 am; 2345 is 11.45 pm. Midnight is zero. The program responds with a suitable greeting for the time of day (e.g., “Good morning”,
-// “Good afternoon”, or “Good evening”). If
-//you want to make this a bit harder, make the program respond with a “?” if the time represented by
-//the number is impossible, such as 2400, -5 or 1163.
